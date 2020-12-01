@@ -1,2 +1,2 @@
-export const port = 4000;
-export const SECRET_KEY = 'GERONIMO';
+export const port = '';
+export const SECRET_KEY = '';
