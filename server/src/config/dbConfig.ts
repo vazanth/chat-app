@@ -1,10 +1,10 @@
 import { PoolConfig }from 'mysql';
 
 const dbConfig: PoolConfig = {
-  "user": "root",
-  "password": "Geronimo@6794",
-  "host": "localhost",
-  "database": "chat-ql",
+  "user": "",
+  "password": "",
+  "host": "",
+  "database": "",
   "connectionLimit": 10,
   "connectTimeout": 120000
 }
